@@ -1,2 +1,2 @@
 # drumkit-javascript30
-a updated version from the tutorial using new keyboard event
+an updated version from the tutorial using new keyboard event
